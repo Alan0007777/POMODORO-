@@ -29,4 +29,5 @@
 ## Click RESET to cancel and restart the timer anytime.
 
 # File Overview
-## 
+## main.py - contains the main file where the program logic exists
+## tomato.png - contains the image used as background in pomodoro project
